@@ -9,6 +9,8 @@
 The primary objective of this project is to develop a specialized conversational AI that provides supportive, empathetic, and gentle responses for users experiencing stress, anxiety, or emotional distress. Unlike general-purpose chatbots, this model is specifically fine-tuned to recognize emotional contexts and respond in a way that validates the user's feelings and promotes emotional well-being.
 
 
+**"Note: The Gradio interface is designed for interactive use in Google Colab. If it does not render on GitHub, please run the notebook in Colab to test the chatbot's empathetic responses."**
+
 
 #### **2. Dataset Used**
 
@@ -85,4 +87,5 @@ The primary objective of this project is to develop a specialized conversational
 
 
 "I'm worried I might have let my friend down today."
+
 
